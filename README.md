@@ -22,7 +22,6 @@ The project uses the Medallion architecture pattern:
 
 ![Solution Architecture](images/architecture.png)  
 
-> 📌 *Tip: You can create this diagram in Draw.io, Lucidchart, or PowerPoint using Azure icons. The diagram should show ADF orchestrating data ingestion, Databricks performing transformations, and Power BI consuming Gold data.*  
 
 ---
 
