@@ -140,7 +140,7 @@ stations_gold.write.mode("overwrite").parquet("abfss://gold@<storage_account>.df
 
 ---
 
-## 📜 ADF Pipeline Example  
+## 📜 ADF Pipeline  
 
 ### Pipeline Flow  
 1. **Copy datasets (Journey, Passengers, Stations) into Bronze**.  
@@ -153,7 +153,7 @@ stations_gold.write.mode("overwrite").parquet("abfss://gold@<storage_account>.df
 [Copy to Bronze] → [Databricks Silver] → [Databricks Gold] → [Power BI Dashboard]
 ```
 
-### Sample Pipeline JSON (Journey Example)  
+### Sample Pipeline JSON (Journey)  
 ```json
 {
   "name": "LondonMedallionPipeline",
