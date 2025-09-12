@@ -1,6 +1,6 @@
-# 🚇 London Travel Medallion Project  
+ London Travel Medallion Project  
 
-## 📌 Project Overview  
+## Project Overview  
 This project demonstrates how to build a **modern data engineering pipeline** using **Azure services** and the **Medallion Architecture (Bronze → Silver → Gold)**.  
 
 It focuses on processing three key datasets — **Journey**, **Passengers**, and **Stations** — to produce business-ready insights, enabling reporting and visualization in **Power BI**.  
